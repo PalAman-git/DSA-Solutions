@@ -1,54 +1,25 @@
 class Solution {
 public:
-    bool search(vector<int> &stones,int key)
-    {
-        int low = 0;
-        int high = stones.size() - 1;
+   bool util(vector<int> &stones, unordered_map<int, unordered_map<int, bool>> &mp, int pos, int units) {
+        if(pos == stones.back()) return true;
+        if(mp.find(pos) != mp.end() && mp[pos].find(units) != mp[pos].end()) return mp[pos][units];
 
-        while(low <= high)
-        {
-            int mid = low + (high - low)/2;
-
-            if(stones[mid] == key) return true;
-
-            else if(key > stones[mid])
-            {
-                low = mid + 1;
-            }
-            else if(key < stones[mid])
-            {
-                high = mid - 1;
-            }
-        }
-        return false;
-    }
-    bool canCross(vector<int>& stones) {
-        unordered_map<int,set<int>> mp;
-        
-        mp[0].insert(1);
-
-        for(int i=0;i<stones.size();i++)
-        {
-            int currStone = stones[i];
-            set<int> jumps = mp[currStone];//get the jump options
-
-            for(auto jump : jumps)
-            {
-                //finding the curr position
-                int pos = currStone + jump;
-                if(pos == stones[stones.size()-1]) return true;
-                if(search(stones,pos) == true)
+        for(int i = units-1; i <= units+1; i++){
+            if(i>0){
+                int next_pos = pos + i;
+                if(binary_search(stones.begin(), stones.end(), next_pos) && util(stones, mp,next_pos, i))
                 {
-                    //0 or negative jump should not be considered
-                    if(jump - 1 > 0)
-                    {
-                        mp[pos].insert(jump - 1);
-                    }
-                    mp[pos].insert(jump);
-                    mp[pos].insert(jump + 1);
+                    mp[pos][units] = true;
+                    return true;
                 }
             }
         }
-        return false;
+        return mp[pos][units] = false;       
+    }
+
+    bool canCross(vector<int>& stones) {
+        unordered_map<int, unordered_map<int, bool>> mp;
+        if (stones[1] != 1) return false;
+        return util(stones, mp, 1, 1);
     }
 };
