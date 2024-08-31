@@ -21,9 +21,15 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | ------- |
 | [0078-subsets](https://github.com/PalAman-git/GFG-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/PalAman-git/GFG-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0090-subsets-ii) |
+| [0800-letter-case-permutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0800-letter-case-permutation) |
+## String
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
