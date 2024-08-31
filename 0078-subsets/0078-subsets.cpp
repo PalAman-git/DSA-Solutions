@@ -1,33 +1,30 @@
 class Solution {
 public:
 
-    void solve(vector<int> output,vector<int> input,vector<vector<int>> &ans)
+    void solve(vector<int> &output,vector<int> &input,int i,vector<vector<int>> &ans)
     {
-        if(input.size() == 0)
+        if(i == input.size())
         {
             ans.push_back(output);
             return;
         }
 
-        //first element of the input vector
-        int firstElem = input[0];
-        input.erase(input.begin());//removing the first element as it is processed
-
         //not selecting the first element
-        solve(output,input,ans);
+        solve(output,input,i+1,ans);
 
         //selecting the first element
-        output.push_back(firstElem);
-        solve(output,input,ans);
+        output.push_back(input[i]);
+        solve(output,input,i+1,ans);
 
-        return;   
+       output.pop_back();
     }
 
     vector<vector<int>> subsets(vector<int>& input) {
         vector<vector<int>> ans;
 
         vector<int> output;
-        solve(output,input,ans);
+        int i = 0;
+        solve(output,input,i,ans);
 
         return ans;
     }
