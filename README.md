@@ -19,6 +19,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0200-number-of-islands](https://github.com/PalAman-git/GFG-Solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,6 +48,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0200-number-of-islands](https://github.com/PalAman-git/GFG-Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PalAman-git/GFG-Solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,11 +56,13 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0547-number-of-provinces](https://github.com/PalAman-git/GFG-Solution/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PalAman-git/GFG-Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PalAman-git/GFG-Solution/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -69,4 +73,5 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0200-number-of-islands](https://github.com/PalAman-git/GFG-Solution/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
