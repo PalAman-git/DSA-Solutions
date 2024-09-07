@@ -2,22 +2,16 @@ class Solution {
 public:
     vector<int> findOrder(int N, vector<vector<int>>& prerequisites) {
         //make the adjacency list for the courses 
+        //make the indegree for all the courses
+        vector<int> indegree(N,0);
         vector<int> adj[N];
         for(auto i : prerequisites)
         {
             adj[i[1]].push_back(i[0]);
+            indegree[i[0]]++;
         }
 
-        //make the indegree for all the courses
-        vector<int> indegree(N,0);
-        for(int i=0;i<N;i++)
-        {
-            for(auto it: adj[i])
-            {
-                indegree[it]++;
-            }
-        }
-
+        
         //push all the nodes having indegree as 0
         queue<int> q;
         for(int i=0;i<N;i++)
