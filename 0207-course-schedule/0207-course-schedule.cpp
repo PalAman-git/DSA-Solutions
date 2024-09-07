@@ -8,7 +8,7 @@ public:
         vector<int>adj[N];
         for(auto i: prerequisites)
         {
-            adj[i[0]].push_back(i[1]);
+            adj[i[1]].push_back(i[0]);
         }
 
         //mark the indegree of the each node
