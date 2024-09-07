@@ -10,8 +10,6 @@ public:
             adj[i[1]].push_back(i[0]);
             indegree[i[0]]++;
         }
-
-        
         //push all the nodes having indegree as 0
         queue<int> q;
         for(int i=0;i<N;i++)
@@ -21,7 +19,6 @@ public:
                 q.push(i);
             }
         }
-
         //process the graph
         vector<int> ans;
         while(!q.empty())
@@ -29,7 +26,6 @@ public:
             int node = q.front();
             q.pop();
             ans.push_back(node);
-
             for(auto i : adj[node])
             {
                 indegree[i]--;
@@ -39,9 +35,7 @@ public:
                 }
             }
         }
-
         if(ans.size() == N) return ans;
-
         return {};
     }
 };
