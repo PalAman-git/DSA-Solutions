@@ -26,29 +26,92 @@ bool dfs(int node,vector<int> &visited,vector<int> &check,vector<int> &pathVisit
 
 public:
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int n = graph.size();
-        int m = graph[0].size();
-        vector<int> visited(n,0);
-        vector<int> check(n,0);
-        vector<int> pathVisited(n,0);
 
-        for(int i=0;i<n;i++)
+        //using DFS
+
+        // int n = graph.size();
+        // int m = graph[0].size();
+        // vector<int> visited(n,0);
+        // vector<int> check(n,0);
+        // vector<int> pathVisited(n,0);
+
+        // for(int i=0;i<n;i++)
+        // {
+        //     if(!visited[i])
+        //     {
+        //         dfs(i,visited,check,pathVisited,graph);
+        //     }
+        // }
+
+        // vector<int> ans;
+        // for(int i=0;i<n;i++)
+        // {
+        //     if(check[i] == 1)
+        //     {
+        //         ans.push_back(i);
+        //     }
+        // }
+
+        // return ans;
+
+
+
+
+        //using BFS
+
+        //reversing the given graph
+        int N = graph.size();
+
+        vector<int> adj[N];
+
+        for(int i=0;i<N;i++)
         {
-            if(!visited[i])
+            for(int j=0;j<graph[i].size();j++)
             {
-                dfs(i,visited,check,pathVisited,graph);
+                adj[graph[i][j]].push_back(i);
             }
         }
 
+        //counting the indegree of each node
+        vector<int> indegree(N,0);
+        for(int i=0;i<N;i++)
+        {
+            for(auto it: adj[i])
+            {
+                indegree[it]++;
+            }
+        }
+
+        //push all the nodes with indegree as 0 in the queue because all of them are terminal nodes
+        queue<int> q;
+        for(int i=0;i<N;i++)
+        {
+            if(indegree[i] == 0)
+            {
+                q.push(i);
+            }
+        }
+
+        //process the graph
         vector<int> ans;
-        for(int i=0;i<n;i++)
+        while(!q.empty())
         {
-            if(check[i] == 1)
+            int node = q.front();
+            q.pop();
+            ans.push_back(node);
+
+            for(auto i: adj[node])
             {
-                ans.push_back(i);
+                indegree[i]--;
+                if(indegree[i] == 0)
+                {
+                    q.push(i);
+                }
             }
         }
 
+        sort(ans.begin(),ans.end());
         return ans;
+
     }
 };
