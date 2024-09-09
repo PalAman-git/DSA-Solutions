@@ -24,14 +24,12 @@ public:
         q.push({root,1});
         int ans=0;
         if(root == NULL) return ans;
-
         while(!q.empty())
         {
             TreeNode* frontNode = q.front().first;
             int depth = q.front().second;
             ans = max(depth,ans);
             q.pop();
-
             if(frontNode -> left) q.push({frontNode -> left,depth+1});
             if(frontNode -> right) q.push({frontNode -> right,depth+1});
         }
