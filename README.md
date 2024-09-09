@@ -62,6 +62,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/PalAman-git/GFG-Solution/tree/master/0127-word-ladder) |
@@ -106,6 +107,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0112-path-sum) |
@@ -114,6 +116,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0112-path-sum) |
