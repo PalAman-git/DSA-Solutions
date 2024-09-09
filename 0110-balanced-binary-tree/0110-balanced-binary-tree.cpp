@@ -16,9 +16,10 @@ private:
         if(root == NULL)return 0;
 
         int left = check(root -> left);
+        if(left == -1) return -1;
         int right = check(root -> right);
-
-        if(left == -1 || right == -1) return -1;
+        if(right == -1) return -1;
+        
         if(abs(left-right) > 1) return -1;
 
         return max(left,right) + 1;
