@@ -19,7 +19,6 @@ public:
                 return {mp[target - nums[i]],i};
             }
         }
-
         return {-1,-1};
     }
 };
