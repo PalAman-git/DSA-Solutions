@@ -14,6 +14,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/PalAman-git/GFG-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/PalAman-git/GFG-Solution/tree/master/0200-number-of-islands) |
@@ -103,6 +104,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/PalAman-git/GFG-Solution/tree/master/0127-word-ladder) |
 ## Tree
 |  |
