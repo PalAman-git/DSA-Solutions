@@ -17,6 +17,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0001-two-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/PalAman-git/GFG-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/PalAman-git/GFG-Solution/tree/master/0200-number-of-islands) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
@@ -113,6 +114,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0001-two-sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/PalAman-git/GFG-Solution/tree/master/0127-word-ladder) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Tree
@@ -120,6 +122,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -133,6 +136,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -153,4 +157,8 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/PalAman-git/GFG-Solution/tree/master/0222-count-complete-tree-nodes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
