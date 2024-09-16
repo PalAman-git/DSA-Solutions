@@ -34,6 +34,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | ------- |
 | [0078-subsets](https://github.com/PalAman-git/GFG-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/PalAman-git/GFG-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0800-letter-case-permutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0800-letter-case-permutation) |
 ## String
 |  |
@@ -122,6 +123,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0110-balanced-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/PalAman-git/GFG-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -134,6 +136,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0110-balanced-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/PalAman-git/GFG-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -146,4 +149,8 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/PalAman-git/GFG-Solution/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
