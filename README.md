@@ -140,6 +140,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -157,6 +158,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Math
 |  |
@@ -184,4 +186,8 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PalAman-git/GFG-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
