@@ -12,6 +12,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/PalAman-git/GFG-Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0022-generate-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/PalAman-git/GFG-Solution/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
 | [0800-letter-case-permutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0800-letter-case-permutation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PalAman-git/GFG-Solution/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -54,6 +56,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | ------- |
 | [0022-generate-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0241-different-ways-to-add-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -175,6 +178,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
 ## Sorting
 |  |
@@ -211,4 +215,8 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0179-largest-number) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
