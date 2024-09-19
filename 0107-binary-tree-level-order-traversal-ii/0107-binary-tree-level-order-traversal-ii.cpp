@@ -34,20 +34,7 @@ public:
             ans.push_back(level);
         }
 
-        stack<vector<int>> st;
-
-        for(auto it: ans)
-        {
-            st.push(it);
-        }
-
-        vector<vector<int>> result;
-        while(!st.empty())
-        {
-            vector<int> top = st.top();
-            result.push_back(top);
-            st.pop();
-        }
-        return result;
+        reverse(ans.begin(),ans.end());
+        return ans;
     }
 };
