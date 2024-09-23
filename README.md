@@ -6,6 +6,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PalAman-git/GFG-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PalAman-git/GFG-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PalAman-git/GFG-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PalAman-git/GFG-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -268,4 +269,8 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0386-lexicographical-numbers](https://github.com/PalAman-git/GFG-Solution/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/PalAman-git/GFG-Solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PalAman-git/GFG-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
