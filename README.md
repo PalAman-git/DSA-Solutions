@@ -29,6 +29,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/PalAman-git/GFG-Solution/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
@@ -223,6 +224,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/PalAman-git/GFG-Solution/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
@@ -276,4 +278,12 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PalAman-git/GFG-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
