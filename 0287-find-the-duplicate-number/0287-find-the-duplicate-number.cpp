@@ -1,25 +1,26 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        //here we have to notice that we are told that the numbers in the array would always be [1,n]
-        //ans also the size of the array will always be n+1;
-        //that means that every number in the array would be a valid index so 
-        //we could just traverse whole array and for each element arr[i] we would go to that index and make
-        //the number at the index -ve; if we again reach at a element which is already -ve then we would return
-        //arr[i];
+        //using floyd's hare and turtoise method (fast and slow);
 
-        int n = nums.size();
-        for(int i=0;i<n;i++)
+        int slow = nums[0];
+        int fast = nums[0];
+
+        slow = nums[slow];
+        fast = nums[nums[fast]];
+
+        while(slow != fast)
         {
-            int index = abs(nums[i]);
-            if(nums[index] < 0){
-                return abs(nums[i]);
-            }
-
-            nums[index] = -nums[index];
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        }
+        
+        slow = nums[0];
+        while(slow != fast){
+            slow = nums[slow];
+            fast = nums[fast];
         }
 
-        return 0;
-        
+        return slow;
     }
 };
