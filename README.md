@@ -84,6 +84,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/PalAman-git/GFG-Solution/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/PalAman-git/GFG-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PalAman-git/GFG-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/PalAman-git/GFG-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0210-course-schedule-ii) |
@@ -110,6 +111,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/PalAman-git/GFG-Solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/PalAman-git/GFG-Solution/tree/master/0130-surrounded-regions) |
+| [0199-binary-tree-right-side-view](https://github.com/PalAman-git/GFG-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/PalAman-git/GFG-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/PalAman-git/GFG-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0210-course-schedule-ii) |
@@ -176,6 +178,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PalAman-git/GFG-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/PalAman-git/GFG-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/PalAman-git/GFG-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -203,6 +206,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PalAman-git/GFG-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/PalAman-git/GFG-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/PalAman-git/GFG-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
