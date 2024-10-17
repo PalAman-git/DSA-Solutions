@@ -99,6 +99,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0547-number-of-provinces](https://github.com/PalAman-git/GFG-Solution/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/PalAman-git/GFG-Solution/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/PalAman-git/GFG-Solution/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
@@ -124,6 +125,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0547-number-of-provinces](https://github.com/PalAman-git/GFG-Solution/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/PalAman-git/GFG-Solution/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/PalAman-git/GFG-Solution/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
@@ -142,6 +144,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0210-course-schedule-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/PalAman-git/GFG-Solution/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/PalAman-git/GFG-Solution/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/PalAman-git/GFG-Solution/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/PalAman-git/GFG-Solution/tree/master/0820-find-eventual-safe-states) |
 ## Matrix
 |  |
@@ -314,8 +317,13 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PalAman-git/GFG-Solution/tree/master/0239-sliding-window-maximum) |
+| [0744-network-delay-time](https://github.com/PalAman-git/GFG-Solution/tree/master/0744-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PalAman-git/GFG-Solution/tree/master/0239-sliding-window-maximum) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/PalAman-git/GFG-Solution/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
