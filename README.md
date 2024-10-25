@@ -37,6 +37,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PalAman-git/GFG-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 ## Backtracking
 |  |
@@ -104,6 +105,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0820-find-eventual-safe-states](https://github.com/PalAman-git/GFG-Solution/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PalAman-git/GFG-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -139,6 +142,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0200-number-of-islands](https://github.com/PalAman-git/GFG-Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PalAman-git/GFG-Solution/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -157,6 +161,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PalAman-git/GFG-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
@@ -249,6 +254,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0209-minimum-size-subarray-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/PalAman-git/GFG-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0287-find-the-duplicate-number) |
+| [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -321,6 +327,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/PalAman-git/GFG-Solution/tree/master/0239-sliding-window-maximum) |
 | [0744-network-delay-time](https://github.com/PalAman-git/GFG-Solution/tree/master/0744-network-delay-time) |
+| [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
