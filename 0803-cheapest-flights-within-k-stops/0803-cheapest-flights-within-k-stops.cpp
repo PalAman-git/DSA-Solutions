@@ -2,7 +2,7 @@ class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int K) {
         vector<pair<int,int>> adj[n];
-        for(auto it: flights)
+        for(auto &it: flights)
         {
             adj[it[0]].push_back({it[1],it[2]});
         }
@@ -36,7 +36,6 @@ public:
         }
 
         if(dist[dst] == 1e9) return -1;
-
         return dist[dst];
     }
 };
