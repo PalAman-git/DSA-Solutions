@@ -75,6 +75,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0124-binary-tree-maximum-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PalAman-git/GFG-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/PalAman-git/GFG-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 ## Depth-First Search
 |  |
@@ -156,6 +157,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0744-network-delay-time](https://github.com/PalAman-git/GFG-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PalAman-git/GFG-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/PalAman-git/GFG-Solution/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/PalAman-git/GFG-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
 | ------- |
@@ -173,6 +175,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0210-course-schedule-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/PalAman-git/GFG-Solution/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/PalAman-git/GFG-Solution/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/PalAman-git/GFG-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,4 +345,5 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | ------- |
 | [0744-network-delay-time](https://github.com/PalAman-git/GFG-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PalAman-git/GFG-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/PalAman-git/GFG-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
