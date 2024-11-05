@@ -373,4 +373,8 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PalAman-git/GFG-Solution/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/PalAman-git/GFG-Solution/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
