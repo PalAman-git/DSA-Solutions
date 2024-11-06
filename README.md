@@ -43,6 +43,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PalAman-git/GFG-Solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
+| [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,6 +59,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0222-count-complete-tree-nodes](https://github.com/PalAman-git/GFG-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0800-letter-case-permutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0800-letter-case-permutation) |
+| [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
 |  |
 | ------- |
@@ -267,6 +269,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0215-kth-largest-element-in-an-array](https://github.com/PalAman-git/GFG-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PalAman-git/GFG-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
+| [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
 | ------- |
