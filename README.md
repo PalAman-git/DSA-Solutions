@@ -60,6 +60,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0287-find-the-duplicate-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0800-letter-case-permutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0800-letter-case-permutation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/PalAman-git/GFG-Solution/tree/master/3394-minimum-array-end) |
 ## String
 |  |
 | ------- |
