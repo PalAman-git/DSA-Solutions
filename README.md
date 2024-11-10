@@ -11,6 +11,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PalAman-git/GFG-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PalAman-git/GFG-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PalAman-git/GFG-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PalAman-git/GFG-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -194,6 +195,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/PalAman-git/GFG-Solution/tree/master/0127-word-ladder) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PalAman-git/GFG-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/PalAman-git/GFG-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0433-minimum-genetic-mutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -334,6 +336,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PalAman-git/GFG-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PalAman-git/GFG-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
