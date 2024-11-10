@@ -8,7 +8,16 @@
  */
 class Solution {
 public:
-    ListNode* getIntersectionNode(ListNode* headA, ListNode* headB) {
+    int lenght(ListNode* head) {
+        ListNode* ptr = head;
+        int cnt = 0;
+        while (ptr) {
+            cnt++;
+            ptr = ptr->next;
+        }
+        return cnt;
+    }
+    ListNode* getIntersectionNode(ListNode* head1, ListNode* head2) {
         // while(headB){
         //     ListNode* ptr = headA;
         //     while(ptr){
@@ -20,19 +29,28 @@ public:
         //     headB = headB -> next;
         // }
         // return NULL;
+        int l1 = lenght(head1);
+        int l2 = lenght(head2);
+        int diff = abs(l1 - l2);
 
-        unordered_set<ListNode*> st;
-
-        while(headA){
-            st.insert(headA);
-            headA = headA -> next;
+        if (l1 > l2) {
+            for (int i = 0; i < diff; i++) {
+                head1 = head1->next;
+            }
+        } else {
+            for (int i = 0; i < diff; i++) {
+                head2 = head2->next;
+            }
         }
 
-        while(headB){
-            if(st.find(headB) != st.end()) return headB;
-            headB = headB -> next;
+        while (head1 && head2) {
+            if (head1 == head2)
+                return head1;
+            else {
+                head1 = head1->next;
+                head2 = head2->next;
+            }
         }
-
         return NULL;
     }
 };
