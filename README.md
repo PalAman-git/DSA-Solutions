@@ -391,6 +391,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [1258-article-views-i](https://github.com/PalAman-git/GFG-Solution/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/PalAman-git/GFG-Solution/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/PalAman-git/GFG-Solution/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/PalAman-git/GFG-Solution/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/PalAman-git/GFG-Solution/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/PalAman-git/GFG-Solution/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
