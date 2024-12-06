@@ -43,6 +43,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PalAman-git/GFG-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PalAman-git/GFG-Solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Backtracking
@@ -201,6 +202,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0438-find-all-anagrams-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PalAman-git/GFG-Solution/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 ## Tree
 |  |
@@ -272,6 +274,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0215-kth-largest-element-in-an-array](https://github.com/PalAman-git/GFG-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PalAman-git/GFG-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Binary Search
 |  |
@@ -281,6 +284,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [0222-count-complete-tree-nodes](https://github.com/PalAman-git/GFG-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -310,6 +314,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0179-largest-number) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Memoization
 |  |
 | ------- |
