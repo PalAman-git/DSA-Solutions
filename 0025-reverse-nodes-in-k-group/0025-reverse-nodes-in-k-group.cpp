@@ -10,7 +10,7 @@
  */
 class Solution {
 public:
-    int getLength(ListNode* head , int k){
+    int getLength(ListNode* head){
         int c = 0;
         while(head != NULL)
         {
@@ -25,6 +25,8 @@ public:
         if(head == NULL){
             return NULL;
         }
+
+        if(getLength(head) < k) return head;
 
         ListNode* next = NULL;
         ListNode* curr = head;
@@ -42,11 +44,7 @@ public:
 
         if(next != NULL)
         {
-            if(getLength(next,k) >= k)
             head -> next = reverseKGroup(next,k);
-
-            else
-            head -> next = next;
         }
 
         return prev;
