@@ -47,6 +47,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PalAman-git/GFG-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -183,6 +184,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [1171-shortest-path-in-binary-matrix](https://github.com/PalAman-git/GFG-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PalAman-git/GFG-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PalAman-git/GFG-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Topological Sort
 |  |
 | ------- |
