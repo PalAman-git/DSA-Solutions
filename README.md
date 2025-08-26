@@ -47,6 +47,7 @@ This repository contains my solutions to various GeeksforGeeks DSA problems. The
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PalAman-git/GFG-Solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PalAman-git/GFG-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PalAman-git/GFG-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Backtracking
