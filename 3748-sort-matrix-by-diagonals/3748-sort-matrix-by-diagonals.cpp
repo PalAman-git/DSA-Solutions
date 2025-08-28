@@ -13,8 +13,7 @@ public:
                 mp[i-j].push_back(grid[i][j]);
             }
         }
-
-        //for reversing vector which have keys greater than 0
+        
         for(auto &it : mp){
 
             //if key is >= 0 , then sort it in desending order
