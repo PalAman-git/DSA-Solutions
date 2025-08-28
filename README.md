@@ -50,6 +50,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PalAman-git/GFG-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PalAman-git/GFG-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/PalAman-git/GFG-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,6 +189,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PalAman-git/GFG-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PalAman-git/GFG-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/PalAman-git/GFG-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -286,6 +288,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
+| [3748-sort-matrix-by-diagonals](https://github.com/PalAman-git/GFG-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
 | ------- |
