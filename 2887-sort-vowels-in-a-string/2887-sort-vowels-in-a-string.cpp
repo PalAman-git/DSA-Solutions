@@ -2,38 +2,28 @@ class Solution {
 public:
     bool isVowel(char c) {
         char ch = tolower(c);
-
-        if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
-            return true;
-        } else
-            return false;
+        return ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u';
     }
 
     string sortVowels(string s) {
-        priority_queue<char,vector<char>,greater<char>> min_heap;
-        int size = s.length();
-        vector<char> result(size);
-
-        for (int i = 0; i < size; i++) {
-            result[i] = '&';
+        vector<char> vowels;
+        
+        // Step 1: collect vowels
+        for (char c : s) {
+            if (isVowel(c)) vowels.push_back(c);
         }
-
-        for (int i = 0; i < size; i++) {
-            if (isVowel(s[i])) {
-                min_heap.push(s[i]);
-            } else {
-                result[i] = s[i];
+        
+        // Step 2: sort vowels
+        sort(vowels.begin(), vowels.end());
+        
+        // Step 3: replace vowels in original string
+        int idx = 0;
+        for (char &c : s) {
+            if (isVowel(c)) {
+                c = vowels[idx++];
             }
         }
-
-        for (int i = 0; i < size; i++) {
-            if (result[i] == '&') {
-                result[i] = min_heap.top();
-                min_heap.pop();
-            } else
-                continue;
-        }
-
-        return string(result.begin(),result.end());
+        
+        return s;
     }
 };
