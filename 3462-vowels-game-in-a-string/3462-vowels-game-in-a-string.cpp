@@ -10,7 +10,7 @@ public:
 
         if(count == 0) return false; //contains no vowel hence Alice can't remove any substring containing odd vowels
 
-        else return true; //Alice removes substring containing odd vowels hence there left odd vowel substring (even - odd = odd), now bob can remove substring containing substring containing even vowel substring hence there left odd vowel containing string (odd - even = odd), now Alice will remove whole string because it contains odd vowels and bob can't remove anything next
+        else return true; //if there is string containing odd cound of vowel then Alice will remove the entire string and bob would not be able to remove anything next so Alice will win the game, if the count of vowel in string is even then Alice will remove the odd vowel count substring , the remaining would contain odd count vowels as even - odd = odd. next bob have to remove substring containg even count vowel substring which would leave behind odd count vowel substring as odd - even = odd. Then alice will remove the entire string and will win.
 
     }
 };
