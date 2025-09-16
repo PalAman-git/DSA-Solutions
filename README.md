@@ -45,6 +45,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1171-shortest-path-in-binary-matrix](https://github.com/PalAman-git/GFG-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PalAman-git/GFG-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PalAman-git/GFG-Solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
@@ -285,6 +286,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/3462-vowels-game-in-a-string) |
 ## Sorting
 |  |
@@ -326,6 +328,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PalAman-git/GFG-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -443,4 +446,8 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
