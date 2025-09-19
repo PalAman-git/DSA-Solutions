@@ -53,6 +53,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PalAman-git/GFG-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/PalAman-git/GFG-Solution/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,6 +88,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PalAman-git/GFG-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -196,6 +198,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PalAman-git/GFG-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/PalAman-git/GFG-Solution/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
 ## Topological Sort
 |  |
 | ------- |
@@ -220,6 +223,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PalAman-git/GFG-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PalAman-git/GFG-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
@@ -450,4 +454,8 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
