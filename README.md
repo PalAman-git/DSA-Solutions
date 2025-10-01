@@ -22,6 +22,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/PalAman-git/GFG-Solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/PalAman-git/GFG-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PalAman-git/GFG-Solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/PalAman-git/GFG-Solution/tree/master/0088-merge-sorted-array) |
@@ -378,6 +379,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PalAman-git/GFG-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/PalAman-git/GFG-Solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/PalAman-git/GFG-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PalAman-git/GFG-Solution/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PalAman-git/GFG-Solution/tree/master/0160-intersection-of-two-linked-lists) |
