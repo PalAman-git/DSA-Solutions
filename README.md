@@ -49,6 +49,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PalAman-git/GFG-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PalAman-git/GFG-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -235,6 +236,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0920-uncommon-words-from-two-sentences](https://github.com/PalAman-git/GFG-Solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PalAman-git/GFG-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
@@ -318,6 +320,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0347-top-k-frequent-elements](https://github.com/PalAman-git/GFG-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PalAman-git/GFG-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2887-sort-vowels-in-a-string) |
@@ -466,6 +469,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/PalAman-git/GFG-Solution/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/PalAman-git/GFG-Solution/tree/master/1642-water-bottles) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Brainteaser
 |  |
