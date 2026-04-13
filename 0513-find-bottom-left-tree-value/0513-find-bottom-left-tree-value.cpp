@@ -12,34 +12,29 @@
 class Solution {
 public:
     int findBottomLeftValue(TreeNode* root) {
-        map<int,int> mp;
-        queue<pair<TreeNode*,int>> q;
 
-        q.push({root,1});
+        queue<TreeNode*> q;
+        q.push(root);
+
+        int result = root -> val;
 
         while(!q.empty()){
             int size = q.size();
 
             for(int i=0;i<size;i++){
-                TreeNode* node = q.front().first;
-                int level = q.front().second;
+                TreeNode* node = q.front();
                 q.pop();
 
-                if(mp.find(level) == mp.end()){
-                    mp[level] = node -> val;
+                if(i == 0){
+                    result = node -> val;
                 }
 
-                if(node -> left){
-                    q.push({node -> left,level+1});
-                }
+                if(node -> left) q.push(node -> left);
 
-                if(node -> right){
-                    q.push({node -> right,level+1});
-                }
+                if(node -> right) q.push(node -> right);
             }
         }
 
-        auto it = mp.rbegin();
-        return it -> second;
+        return result;
     }
 };
