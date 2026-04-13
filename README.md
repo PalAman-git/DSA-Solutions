@@ -138,6 +138,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0310-minimum-height-trees](https://github.com/PalAman-git/GFG-Solution/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/PalAman-git/GFG-Solution/tree/master/0386-lexicographical-numbers) |
+| [0513-find-bottom-left-tree-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/PalAman-git/GFG-Solution/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
@@ -169,6 +170,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0210-course-schedule-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/PalAman-git/GFG-Solution/tree/master/0310-minimum-height-trees) |
 | [0433-minimum-genetic-mutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0433-minimum-genetic-mutation) |
+| [0513-find-bottom-left-tree-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/PalAman-git/GFG-Solution/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
@@ -273,6 +275,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PalAman-git/GFG-Solution/tree/master/0450-delete-node-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0783-search-in-a-binary-search-tree) |
@@ -306,6 +309,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PalAman-git/GFG-Solution/tree/master/0450-delete-node-in-a-bst) |
+| [0513-find-bottom-left-tree-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0783-search-in-a-binary-search-tree) |
