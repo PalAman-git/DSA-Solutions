@@ -94,6 +94,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0433-minimum-genetic-mutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
+| [0606-construct-string-from-binary-tree](https://github.com/PalAman-git/DSA-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0800-letter-case-permutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0800-letter-case-permutation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PalAman-git/GFG-Solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PalAman-git/GFG-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -148,6 +149,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0538-convert-bst-to-greater-tree](https://github.com/PalAman-git/DSA-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/PalAman-git/GFG-Solution/tree/master/0547-number-of-provinces) |
+| [0606-construct-string-from-binary-tree](https://github.com/PalAman-git/DSA-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/PalAman-git/GFG-Solution/tree/master/0744-network-delay-time) |
@@ -288,6 +290,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0513-find-bottom-left-tree-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/PalAman-git/DSA-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/PalAman-git/DSA-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -325,6 +328,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0513-find-bottom-left-tree-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/PalAman-git/DSA-Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/PalAman-git/DSA-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0784-insert-into-a-binary-search-tree) |
