@@ -11,14 +11,8 @@
  */
 class Solution {
 public:
-    TreeNode* dfs(TreeNode* root,int currDepth,int targetDepth,int val){
-        if(!root) return root;
-
-        if(currDepth == targetDepth){
-            TreeNode* head = new TreeNode(val);
-            head -> left = root;
-            return head;
-        }
+    void dfs(TreeNode* root,int currDepth,int targetDepth,int val){
+        if(!root) return;
 
         if(currDepth + 1 == targetDepth){
             TreeNode* left = root -> left;
@@ -30,15 +24,21 @@ public:
             root -> left -> left = left;
             root -> right -> right = right;
 
-            return root;
+            return;
         }
 
         dfs(root -> left,currDepth+1,targetDepth,val);
         dfs(root -> right,currDepth+1,targetDepth,val);
-        return root;
     }
 
     TreeNode* addOneRow(TreeNode* root, int val, int depth) {
-        return dfs(root,1,depth,val);
+        if(depth == 1){
+            TreeNode* head = new TreeNode(val);
+            head -> left = root;
+            return head;
+        }
+
+        dfs(root,1,depth,val);
+        return root;
     }
 };
