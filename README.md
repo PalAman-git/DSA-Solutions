@@ -70,6 +70,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0078-subsets](https://github.com/PalAman-git/GFG-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/PalAman-git/DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
 |  |
@@ -89,6 +90,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0179-largest-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/PalAman-git/GFG-Solution/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/PalAman-git/DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [0433-minimum-genetic-mutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
@@ -137,6 +139,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalAman-git/GFG-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PalAman-git/DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [0310-minimum-height-trees](https://github.com/PalAman-git/GFG-Solution/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/PalAman-git/GFG-Solution/tree/master/0386-lexicographical-numbers) |
@@ -275,6 +278,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalAman-git/GFG-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PalAman-git/DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PalAman-git/GFG-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -309,6 +313,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PalAman-git/GFG-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/PalAman-git/DSA-Solutions/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PalAman-git/GFG-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/0513-find-bottom-left-tree-value) |
