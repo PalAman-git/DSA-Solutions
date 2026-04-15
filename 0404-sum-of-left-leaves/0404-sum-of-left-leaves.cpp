@@ -11,10 +11,14 @@
  */
 class Solution {
 public:
+    bool isLeaf(TreeNode* node){
+        return node && !node -> left && !node -> right;
+    }
+    
     void dfs(TreeNode* root , int &sum){
         if(!root) return;
 
-        if(root -> left != NULL && root -> left -> left == NULL && root -> left -> right == NULL){
+        if(isLeaf(root -> left)){
             sum += root -> left -> val;
         }
 
