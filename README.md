@@ -60,6 +60,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PalAman-git/GFG-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PalAman-git/GFG-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3488-closest-equal-element-queries](https://github.com/PalAman-git/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/PalAman-git/GFG-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/PalAman-git/GFG-Solution/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
@@ -260,6 +261,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
+| [3488-closest-equal-element-queries](https://github.com/PalAman-git/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PalAman-git/GFG-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
@@ -378,6 +380,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PalAman-git/GFG-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3488-closest-equal-element-queries](https://github.com/PalAman-git/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
