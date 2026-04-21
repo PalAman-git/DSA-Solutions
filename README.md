@@ -41,6 +41,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0347-top-k-frequent-elements](https://github.com/PalAman-git/GFG-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/PalAman-git/GFG-Solution/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/PalAman-git/DSA-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/PalAman-git/GFG-Solution/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
@@ -253,6 +254,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0347-top-k-frequent-elements](https://github.com/PalAman-git/GFG-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0433-minimum-genetic-mutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/PalAman-git/DSA-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0652-find-duplicate-subtrees](https://github.com/PalAman-git/DSA-Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PalAman-git/GFG-Solution/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -362,6 +364,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0215-kth-largest-element-in-an-array](https://github.com/PalAman-git/GFG-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PalAman-git/GFG-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/PalAman-git/DSA-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PalAman-git/GFG-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -392,6 +395,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PalAman-git/GFG-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/PalAman-git/DSA-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PalAman-git/GFG-Solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PalAman-git/GFG-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -453,6 +457,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0209-minimum-size-subarray-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/PalAman-git/GFG-Solution/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/PalAman-git/DSA-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
