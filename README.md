@@ -42,6 +42,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0498-diagonal-traverse](https://github.com/PalAman-git/GFG-Solution/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/PalAman-git/DSA-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/PalAman-git/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/PalAman-git/GFG-Solution/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
@@ -458,6 +459,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0239-sliding-window-maximum](https://github.com/PalAman-git/GFG-Solution/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/PalAman-git/DSA-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/PalAman-git/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
 | ------- |
