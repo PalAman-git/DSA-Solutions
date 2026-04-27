@@ -67,6 +67,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [3488-closest-equal-element-queries](https://github.com/PalAman-git/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/PalAman-git/GFG-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/PalAman-git/GFG-Solution/tree/master/3748-sort-matrix-by-diagonals) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
@@ -271,6 +272,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [3488-closest-equal-element-queries](https://github.com/PalAman-git/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PalAman-git/GFG-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
@@ -469,6 +471,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0594-longest-harmonious-subsequence](https://github.com/PalAman-git/DSA-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PalAman-git/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2401-longest-nice-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2401-longest-nice-subarray) |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Prefix Sum
 |  |
 | ------- |
