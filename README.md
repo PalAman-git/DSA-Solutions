@@ -50,6 +50,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PalAman-git/GFG-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalAman-git/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PalAman-git/GFG-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
@@ -473,6 +474,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0594-longest-harmonious-subsequence](https://github.com/PalAman-git/DSA-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PalAman-git/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalAman-git/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2401-longest-nice-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2401-longest-nice-subarray) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Prefix Sum
