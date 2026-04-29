@@ -63,6 +63,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PalAman-git/GFG-Solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PalAman-git/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PalAman-git/GFG-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/PalAman-git/GFG-Solution/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -273,6 +274,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PalAman-git/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3488-closest-equal-element-queries](https://github.com/PalAman-git/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
@@ -476,6 +478,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0713-subarray-product-less-than-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalAman-git/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2401-longest-nice-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2401-longest-nice-subarray) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PalAman-git/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Prefix Sum
 |  |
