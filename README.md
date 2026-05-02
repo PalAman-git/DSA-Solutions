@@ -60,6 +60,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PalAman-git/GFG-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2401-longest-nice-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PalAman-git/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PalAman-git/GFG-Solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
@@ -272,6 +273,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PalAman-git/GFG-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PalAman-git/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -478,6 +480,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0713-subarray-product-less-than-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalAman-git/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2401-longest-nice-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2401-longest-nice-subarray) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PalAman-git/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Prefix Sum
