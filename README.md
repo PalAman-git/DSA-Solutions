@@ -116,6 +116,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PalAman-git/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2887-sort-vowels-in-a-string) |
+| [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/PalAman-git/DSA-Solutions/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3462-vowels-game-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/PalAman-git/GFG-Solution/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -281,6 +282,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2831-find-the-longest-equal-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PalAman-git/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/PalAman-git/DSA-Solutions/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3488-closest-equal-element-queries](https://github.com/PalAman-git/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3797-design-spreadsheet](https://github.com/PalAman-git/GFG-Solution/tree/master/3797-design-spreadsheet) |
@@ -489,6 +491,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2537-count-the-number-of-good-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2831-find-the-longest-equal-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PalAman-git/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/PalAman-git/DSA-Solutions/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Prefix Sum
 |  |
