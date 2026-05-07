@@ -47,6 +47,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0713-subarray-product-less-than-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/PalAman-git/GFG-Solution/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/PalAman-git/GFG-Solution/tree/master/0794-swim-in-rising-water) |
+| [1004-max-consecutive-ones-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PalAman-git/GFG-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -402,6 +403,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0287-find-the-duplicate-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/PalAman-git/GFG-Solution/tree/master/0794-swim-in-rising-water) |
+| [1004-max-consecutive-ones-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PalAman-git/GFG-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -485,6 +487,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0594-longest-harmonious-subsequence](https://github.com/PalAman-git/DSA-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PalAman-git/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalAman-git/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2401-longest-nice-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -498,6 +501,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
 | ------- |
