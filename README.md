@@ -106,6 +106,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0214-shortest-palindrome](https://github.com/PalAman-git/GFG-Solution/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/PalAman-git/DSA-Solutions/tree/master/0257-binary-tree-paths) |
+| [0424-longest-repeating-character-replacement](https://github.com/PalAman-git/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
@@ -268,6 +269,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0160-intersection-of-two-linked-lists](https://github.com/PalAman-git/GFG-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PalAman-git/GFG-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/PalAman-git/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/PalAman-git/DSA-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -483,6 +485,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0209-minimum-size-subarray-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/PalAman-git/GFG-Solution/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/PalAman-git/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/PalAman-git/DSA-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/PalAman-git/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
