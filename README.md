@@ -49,6 +49,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0794-swim-in-rising-water](https://github.com/PalAman-git/GFG-Solution/tree/master/0794-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/PalAman-git/GFG-Solution/tree/master/1036-rotting-oranges) |
+| [1052-grumpy-bookstore-owner](https://github.com/PalAman-git/DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PalAman-git/GFG-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalAman-git/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -493,6 +494,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0643-maximum-average-subarray-i](https://github.com/PalAman-git/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/PalAman-git/DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalAman-git/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1871-jump-game-vii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1871-jump-game-vii) |
 | [2401-longest-nice-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2401-longest-nice-subarray) |
