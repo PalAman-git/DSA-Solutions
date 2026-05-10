@@ -115,6 +115,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0920-uncommon-words-from-two-sentences](https://github.com/PalAman-git/GFG-Solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PalAman-git/GFG-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1871-jump-game-vii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PalAman-git/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2887-sort-vowels-in-a-string) |
@@ -132,6 +133,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0337-house-robber-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0337-house-robber-iii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/PalAman-git/GFG-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PalAman-git/GFG-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1871-jump-game-vii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1871-jump-game-vii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/PalAman-git/GFG-Solution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 ## Depth-First Search
@@ -492,6 +494,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0713-subarray-product-less-than-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalAman-git/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1871-jump-game-vii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1871-jump-game-vii) |
 | [2401-longest-nice-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -505,6 +508,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0209-minimum-size-subarray-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1871-jump-game-vii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1871-jump-game-vii) |
 ## Queue
 |  |
 | ------- |
