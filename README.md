@@ -65,6 +65,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PalAman-git/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/PalAman-git/GFG-Solution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2553-separate-the-digits-in-an-array](https://github.com/PalAman-git/DSA-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2831-find-the-longest-equal-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
@@ -572,6 +573,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1642-water-bottles](https://github.com/PalAman-git/GFG-Solution/tree/master/1642-water-bottles) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/PalAman-git/DSA-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
