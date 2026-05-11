@@ -58,6 +58,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalAman-git/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PalAman-git/GFG-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1441-build-an-array-with-stack-operations](https://github.com/PalAman-git/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -444,6 +445,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/PalAman-git/GFG-Solution/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1441-build-an-array-with-stack-operations](https://github.com/PalAman-git/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Binary Search Tree
 |  |
@@ -579,6 +581,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/PalAman-git/GFG-Solution/tree/master/0498-diagonal-traverse) |
+| [1441-build-an-array-with-stack-operations](https://github.com/PalAman-git/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/PalAman-git/GFG-Solution/tree/master/1642-water-bottles) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2324-find-triangular-sum-of-an-array) |
