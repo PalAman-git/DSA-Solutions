@@ -60,6 +60,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalAman-git/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/PalAman-git/GFG-Solution/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1441-build-an-array-with-stack-operations](https://github.com/PalAman-git/DSA-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1695-maximum-erasure-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -293,6 +294,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PalAman-git/GFG-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalAman-git/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1695-maximum-erasure-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/1695-maximum-erasure-value) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/PalAman-git/GFG-Solution/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -513,6 +515,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1052-grumpy-bookstore-owner](https://github.com/PalAman-git/DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalAman-git/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PalAman-git/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1871-jump-game-vii) |
 | [2401-longest-nice-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
