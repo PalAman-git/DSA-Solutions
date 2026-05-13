@@ -75,6 +75,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2831-find-the-longest-equal-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PalAman-git/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/PalAman-git/GFG-Solution/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/PalAman-git/GFG-Solution/tree/master/3291-find-if-array-can-be-sorted) |
@@ -301,6 +302,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2831-find-the-longest-equal-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PalAman-git/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/PalAman-git/DSA-Solutions/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3488-closest-equal-element-queries](https://github.com/PalAman-git/DSA-Solutions/tree/master/3488-closest-equal-element-queries) |
@@ -521,6 +523,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2831-find-the-longest-equal-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PalAman-git/DSA-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/PalAman-git/DSA-Solutions/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
