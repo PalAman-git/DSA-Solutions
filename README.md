@@ -131,6 +131,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PalAman-git/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1871-jump-game-vii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1871-jump-game-vii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/PalAman-git/DSA-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PalAman-git/DSA-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2755-extra-characters-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2755-extra-characters-in-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/PalAman-git/GFG-Solution/tree/master/2887-sort-vowels-in-a-string) |
@@ -437,6 +438,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1004-max-consecutive-ones-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/PalAman-git/DSA-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1753-path-with-minimum-effort](https://github.com/PalAman-git/GFG-Solution/tree/master/1753-path-with-minimum-effort) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/PalAman-git/DSA-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/PalAman-git/GFG-Solution/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2831-find-the-longest-equal-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2831-find-the-longest-equal-subarray) |
@@ -531,6 +533,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PalAman-git/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1871-jump-game-vii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/PalAman-git/DSA-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2401-longest-nice-subarray](https://github.com/PalAman-git/DSA-Solutions/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -548,6 +551,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1208-get-equal-substrings-within-budget](https://github.com/PalAman-git/DSA-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1871-jump-game-vii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1871-jump-game-vii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/PalAman-git/DSA-Solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Queue
 |  |
 | ------- |
