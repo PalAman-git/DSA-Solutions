@@ -56,6 +56,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1052-grumpy-bookstore-owner](https://github.com/PalAman-git/DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1073-number-of-enclaves](https://github.com/PalAman-git/GFG-Solution/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/PalAman-git/GFG-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalAman-git/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalAman-git/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -296,6 +297,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0904-fruit-into-baskets](https://github.com/PalAman-git/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PalAman-git/GFG-Solution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/PalAman-git/DSA-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PalAman-git/GFG-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalAman-git/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -398,6 +400,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/PalAman-git/GFG-Solution/tree/master/0539-minimum-time-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/PalAman-git/GFG-Solution/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/PalAman-git/GFG-Solution/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -523,6 +526,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [1052-grumpy-bookstore-owner](https://github.com/PalAman-git/DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/PalAman-git/DSA-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1208-get-equal-substrings-within-budget](https://github.com/PalAman-git/DSA-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalAman-git/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PalAman-git/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/1695-maximum-erasure-value) |
@@ -542,6 +546,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0713-subarray-product-less-than-k](https://github.com/PalAman-git/DSA-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/PalAman-git/DSA-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/PalAman-git/DSA-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1871-jump-game-vii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1871-jump-game-vii) |
 ## Queue
 |  |
