@@ -31,6 +31,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PalAman-git/GFG-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/PalAman-git/GFG-Solution/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/PalAman-git/GFG-Solution/tree/master/0130-surrounded-regions) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PalAman-git/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/PalAman-git/GFG-Solution/tree/master/0200-number-of-islands) |
@@ -420,6 +421,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PalAman-git/DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PalAman-git/GFG-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/PalAman-git/GFG-Solution/tree/master/0222-count-complete-tree-nodes) |
