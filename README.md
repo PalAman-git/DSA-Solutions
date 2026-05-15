@@ -124,6 +124,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0606-construct-string-from-binary-tree](https://github.com/PalAman-git/DSA-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0800-letter-case-permutation](https://github.com/PalAman-git/GFG-Solution/tree/master/0800-letter-case-permutation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PalAman-git/GFG-Solution/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/PalAman-git/DSA-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PalAman-git/GFG-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PalAman-git/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -293,6 +294,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/PalAman-git/GFG-Solution/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/PalAman-git/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/PalAman-git/GFG-Solution/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/PalAman-git/DSA-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/PalAman-git/GFG-Solution/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/PalAman-git/GFG-Solution/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalAman-git/DSA-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -517,6 +519,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | [0904-fruit-into-baskets](https://github.com/PalAman-git/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/PalAman-git/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/PalAman-git/DSA-Solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1156-swap-for-longest-repeated-character-substring](https://github.com/PalAman-git/DSA-Solutions/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PalAman-git/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PalAman-git/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/PalAman-git/DSA-Solutions/tree/master/1695-maximum-erasure-value) |
