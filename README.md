@@ -23,6 +23,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 | ------- |
 | [0001-two-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/PalAman-git/GFG-Solution/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/PalAman-git/GFG-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/PalAman-git/GFG-Solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/PalAman-git/GFG-Solution/tree/master/0088-merge-sorted-array) |
@@ -144,6 +145,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/PalAman-git/GFG-Solution/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PalAman-git/GFG-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PalAman-git/GFG-Solution/tree/master/0241-different-ways-to-add-parentheses) |
@@ -479,6 +481,7 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/PalAman-git/DSA-Solutions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/PalAman-git/GFG-Solution/tree/master/0179-largest-number) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/PalAman-git/GFG-Solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Memoization
